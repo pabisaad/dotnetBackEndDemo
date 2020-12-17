@@ -48,6 +48,7 @@ namespace Pixel.IRIS5.API.Mobile.Controllers
 
                 ArrayList _lst = new ArrayList
                 {
+                    //test
                     new string[5] { "APP_MENU", "", "", "", "hidden" },
                     new string[5] { "ID", "ID", "int","", "visible"  },
                     new string[5] { "MENU_TEXT_EN", "EN", "string","", "visible"  },
